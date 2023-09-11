@@ -30,3 +30,8 @@ There are no dependencies to frameworks and/or libraries and could be extracted 
 Here is a flow diagram of the payment of an order.
 
 ![c4 component](./docs/c4-component.png)
+
+
+
+
+https://metal-flea-041.notion.site/LIVE-Arquitetura-Limpa-com-Java-232f8dd937d244069f160c9360c00761
